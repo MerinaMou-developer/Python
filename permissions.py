@@ -19,3 +19,4 @@ user = {
     "id": 7,
     "is_admin": False
 }
+
